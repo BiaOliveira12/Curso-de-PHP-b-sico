@@ -16,7 +16,7 @@ Operador Unário
 
 (expressão) ? (verdadeiro) : (falso)
 
-$maior = $a > $b ? $a : $b
+/* $maior = $a > $b ? $a : $b
 
 ou 
 
@@ -24,7 +24,7 @@ Se (a > b) então
         maior <- a
 senão
         maior <- b
-FimSe
+FimSe */
 
 $r = $a > $b ? $a + $b : $a - $b
 
